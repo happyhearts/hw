@@ -1,0 +1,64 @@
+.aboutbox{
+	background: #eff3f7;
+	border-radius: 4px;
+	margin-bottom: 26px;
+}
+
+.aboutbox .aboutbox-header{
+	font-family: 'helveticaneuecyr-bold-demo';
+	font-size: 27px;
+	font-weight: normal;
+	color: #3ba8c0;
+	border-bottom: 2px #3ba8c0 solid;
+	margin: 0 0 23px 0;
+	padding: 13px 23px;
+	display: inline-block;
+}
+.autobox-body{
+	padding-bottom: 40px;
+}
+
+.image-wrap{
+float: left;
+margin-left: 55px;
+margin-top: 18px;	
+}
+
+
+
+.aboutbox .worksheet-wrap {
+	float: right;
+	width: 400px;
+}
+.worksheet-list{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.worksheet-info{
+	float: left;
+	margin-left: 25px;
+	max-width: 260px;
+}
+.worksheet-item{
+	margin-bottom: 8px;
+}
+.worksheet-what {
+	font-family: 'proximanovacond-semibold';
+	font-size: 16px;
+	float: left;
+}
+.worksheet-info{
+	font-family: 'proximanovacond-semibold';
+	font-size: 15px;
+	overflow: hidden;
+	max-width: 218px;
+}
+.avatar-box{
+	width: 142px;
+	height: 142px;
+	border-radius: 50% 50%;
+	border:5px solid;
+	color: #3ba8c0;
+	overflow: hidden;
+}
